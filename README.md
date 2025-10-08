@@ -65,4 +65,3 @@ cd tic-tac-toe
 * Email: [anveshagoydani@gmail.com](mailto:anveshagoydani@gmail.com)
 
 ```
-
